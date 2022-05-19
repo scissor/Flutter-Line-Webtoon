@@ -1,0 +1,43 @@
+{
+    "titleNo": 450,
+    "language": "zh-hant",
+    "writingAuthorName": "洪元建",
+    "pictureAuthorName": "洪元建",
+    "representGenre": "LOCAL",
+    "genreInfo": {
+    "name": "台灣原創作品",
+    "index": 0,
+    "color": "434458",
+    "code": "LOCAL"
+    },
+    "viewer": "SCROLL",
+    "title": "宅男打籃球",
+    "synopsis": "周大華學生時期是學校的風雲人物，高超的球技，帥氣的外表，看似大好的人生，卻在畢業後失去舞台而黯淡落幕。轉眼間，周大華變成一位年近30，過著鹹魚般混吃等死的魯蛇。在一個寒冷的夜晚，歷經重大打擊，他才意識到這一切跟10年前幻想自己的人生完全不一樣，現在的他，是一個沒有目標，沒有未來的徹底失敗者。就在他沮喪至極的時刻，出現一位學生時期的忠實球迷，邀請他參加一場\"寶島社區盃3V3籃球大賽\"。於是，由一群蝦兵蟹將所組成的隊伍，正式參賽！！\n",
+    "theme": "white",
+    "serviceStatus": "SERVICE",
+    "restTerminationStatus": "SERIES",
+    "starScoreAverage": 9.77,
+    "readCount": 60558662,
+    "favoriteCount": 186566,
+    "mana": 63125,
+    "totalServiceEpisodeCount": 363,
+    "lastEpisodeRegisterYmdt": 1652536902000,
+    "linkUrl": "https://www.webtoons.com/zh-hant/local/zhainandalanqiu/list?title_no=450",
+    "firstEpisodeNo": 1,
+    "newTitle": false,
+    "hotTitle": false,
+    "ageGradeNotice": false,
+    "likeitCount": 1659946,
+    "weekday": [
+    "SUNDAY"
+    ],
+    "unsuitableForChildren": false,
+    "webnovel": false,
+    "thumbnail": "/20190413_39/1555145836291Jzpg3_PNG/thumb_M_240x254+28129.png?type=q70",
+    "background": "/20210809_160/1628497618108wL1rF_PNG/2E5AE85E794B7E68993E7B183E79083_E4BD9CE59381E585A7E9A0.png?type=q70",
+    "genreColor": "434458",
+    "downloadable": true,
+    "instagramShareImageUrl": "/20210809_160/1628497618108wL1rF_PNG/2E5AE85E794B7E68993E7B183E79083_E4BD9CE59381E585A7E9A0.png?type=crop540_923",
+    "firstEpisodeThumbnail": "/20181109_124/1541734254352hkR4t_JPEG/154173425431445011.jpg",
+    "totalEpisodeCount": 367
+}

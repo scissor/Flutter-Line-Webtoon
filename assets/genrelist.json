@@ -1,0 +1,151 @@
+{
+    "genreTabList": {
+      "genreTabs": [
+        {
+          "name": "All",
+          "index": 0,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/ALL.png?dt=2022022201",
+          "code": "ALL"
+        },
+        {
+          "name": "Comedy",
+          "index": 1,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/COMEDY.png?dt=2022022201",
+          "code": "COMEDY"
+        },
+        {
+          "name": "Fantasy",
+          "index": 2,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/FANTASY.png?dt=2022022201",
+          "code": "FANTASY"
+        },
+        {
+          "name": "Romance",
+          "index": 3,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/ROMANCE.png?dt=2022022201",
+          "code": "ROMANCE"
+        },
+        {
+          "name": "Slice of life",
+          "index": 4,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/SLICE_OF_LIFE.png?dt=2022022201",
+          "code": "SLICE_OF_LIFE"
+        },
+        {
+          "name": "Sci-fi",
+          "index": 5,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/SF.png?dt=2022022201",
+          "code": "SF"
+        },
+        {
+          "name": "Drama",
+          "index": 6,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/DRAMA.png?dt=2022022201",
+          "code": "DRAMA"
+        },
+        {
+          "name": "Short story",
+          "index": 7,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/SHORT_STORY.png?dt=2022022201",
+          "code": "SHORT_STORY"
+        },
+        {
+          "name": "Action",
+          "index": 8,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/ACTION.png?dt=2022022201",
+          "code": "ACTION"
+        },
+        {
+          "name": "Superhero",
+          "index": 9,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/SUPER_HERO.png?dt=2022022201",
+          "code": "SUPER_HERO"
+        },
+        {
+          "name": "Heart-warming",
+          "index": 10,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/HEARTWARMING.png?dt=2022022201",
+          "code": "HEARTWARMING"
+        },
+        {
+          "name": "Thriller",
+          "index": 11,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/THRILLER.png?dt=2022022201",
+          "code": "THRILLER"
+        },
+        {
+          "name": "Horror",
+          "index": 12,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/HORROR.png?dt=2022022201",
+          "code": "HORROR"
+        },
+        {
+          "name": "Post-Apocalyptic",
+          "index": 13,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/POST_APOCALYPTIC.png?dt=2022022201",
+          "code": "POST_APOCALYPTIC"
+        },
+        {
+          "name": "Zombies",
+          "index": 14,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/ZOMBIES.png?dt=2022022201",
+          "code": "ZOMBIES"
+        },
+        {
+          "name": "School",
+          "index": 15,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/SCHOOL.png?dt=2022022201",
+          "code": "SCHOOL"
+        },
+        {
+          "name": "Supernatural",
+          "index": 16,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/SUPERNATURAL.png?dt=2022022201",
+          "code": "SUPERNATURAL"
+        },
+        {
+          "name": "Animals",
+          "index": 17,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/ANIMALS.png?dt=2022022201",
+          "code": "ANIMALS"
+        },
+        {
+          "name": "Crime/Mystery",
+          "index": 18,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/CRIME_MYSTERY.png?dt=2022022201",
+          "code": "CRIME_MYSTERY"
+        },
+        {
+          "name": "Historical",
+          "index": 19,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/HISTORICAL.png?dt=2022022201",
+          "code": "HISTORICAL"
+        },
+        {
+          "name": "Informative",
+          "index": 20,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/TIPTOON.png?dt=2022022201",
+          "code": "TIPTOON"
+        },
+        {
+          "name": "Sports",
+          "index": 21,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/SPORTS.png?dt=2022022201",
+          "code": "SPORTS"
+        },
+        {
+          "name": "Inspirational",
+          "index": 22,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/INSPIRATIONAL.png?dt=2022022201",
+          "code": "INSPIRATIONAL"
+        },
+        {
+          "name": "All Ages",
+          "index": 23,
+          "iconImage": "https://webtoons-static.pstatic.net/image/genre/challenge_icon/ALL_AGES.png?dt=2022022201",
+          "code": "ALL_AGES"
+        }
+      ],
+      "count": 24
+    }
+}

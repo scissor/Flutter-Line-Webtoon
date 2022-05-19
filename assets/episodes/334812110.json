@@ -1,0 +1,54 @@
+{
+    "episodeSeq": 110,
+    "episodeTitle": "我的志向2",
+    "linkUrl": "https://www.webtoons.com/zh-hant/challenge/%E8%A7%92%E8%90%BD%E5%BB%A2%E7%89%A9/%E6%88%91%E7%9A%84%E5%BF%97%E5%90%912/viewer?title_no=334812&episode_no=110",
+    "exposureType": "FREE",
+    "previousEpisodeNo": 109,
+    "previousEpisodeTitle": "我的志向1",
+    "previousEpisodeExposureType": "FREE",
+    "previousEpisodeThumbnailUrl": "/20220515_19/1652544399207T7BF6_JPEG/5b568bd6-7735-4d28-b5e9-1bfbd1c678dc.jpg",
+    "likeItCount": 312,
+    "likeIt": false,
+    "thumbnailImageUrl": "/20220515_29/1652544688109HJUUw_JPEG/a3867190-9e0f-4db9-9ac7-84c34eae7c7b.jpg",
+    "writingAuthorName": "壞朋友",
+    "creatorNote": "之後就有很多番薯可以吃惹 ig:badfriend_2",
+    "adExposure": {
+    "status": "NOT_REGISTRED",
+    "exposure": false
+    },
+    "imageInfo": [
+    {
+        "sortOrder": 1,
+        "cutId": 0,
+        "url": "/20220515_51/1652544697756EBxpv_JPEG/64598c1f-18cd-4565-9942-f5aec577457a.jpg?type=q70",
+        "fileSize": 18758,
+        "width": 600,
+        "height": 600
+    },
+    {
+        "sortOrder": 2,
+        "cutId": 0,
+        "url": "/20220515_20/1652544692225NeLvh_JPEG/26c5c35e-77eb-4306-8fc3-9a4d2e851ff6.jpg?type=q70",
+        "fileSize": 34373,
+        "width": 800,
+        "height": 800
+    },
+    {
+        "sortOrder": 3,
+        "cutId": 0,
+        "url": "/20220515_235/16525446926794ijAV_JPEG/75d523e9-5201-49c3-9c8f-fe2dcf9d0454.jpg?type=q70",
+        "fileSize": 34384,
+        "width": 800,
+        "height": 800
+    },
+    {
+        "sortOrder": 4,
+        "cutId": 0,
+        "url": "/20220515_151/1652544693147qLoop_JPEG/3254a820-2387-45ff-a48c-fdef132f3e3f.jpg?type=q70",
+        "fileSize": 47718,
+        "width": 800,
+        "height": 800
+    }
+    ],
+    "count": 4
+}
