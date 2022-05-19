@@ -1,4 +1,4 @@
-# Line Webtoon Client
+# Line Webtoon Clone
 
 A Flutter project that clone from Line Webtoon Mobile.
 
